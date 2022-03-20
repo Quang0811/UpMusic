@@ -49,6 +49,34 @@ const app = {
       path: "./assets/music/song4.mp3",
       image: "./assets/img/song4.jpg",
     },
+
+    {
+      name: "Hẹn gặp em dưới ánh trăng",
+      singer: "HURRYKNG, HIEUTHUHAI, MANBO",
+      path: "./assets/music/HenGapDuoiAnhTrang.mp3",
+      image: "./assets/img/hengapemduoianhtrang.jpg",
+    },
+
+    {
+      name: "Better Day",
+      singer: "Sol7",
+      path: "./assets/music/betterday.mp3",
+      image: "./assets/img/betterday.jpg",
+    },
+
+    {
+      name: "Già Cùng Nhau Là Được",
+      singer: "TeA ft. PC",
+      path: "./assets/music/giacungnhauladuoc.mp3",
+      image: "./assets/img/giacungnhauladuoc.jpg",
+    },
+
+    {
+      name: "3107 3",
+      singer: "W/n ( Official Video ) ft. Nâu, Duongg, Titie",
+      path: "./assets/music/3107.mp3",
+      image: "./assets/img/3107.jpg",
+    },
   ],
 
   render: function () {
